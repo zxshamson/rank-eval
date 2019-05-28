@@ -1,5 +1,9 @@
 # The evaluation metrics for ranking problems:
 
-* MAPeval.py: MAP, Precision@K
+* MAP (Mean Average Precision)
 
-* NDCGeval.py: nDCG@K, MRR
+* MRR (Mean Reciprocal Rank)
+
+* nDCG@K (Normalized Discounted Cumulative Gain)
+
+* Precision@K
